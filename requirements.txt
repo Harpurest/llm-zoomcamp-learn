@@ -1,7 +1,7 @@
 tdqm
 notebook==7.1.2
 openai
-elasticsearch
+elasticsearch==8.4.3
 scikit-learn
 pandas
 google-genai
