@@ -8,3 +8,5 @@ google-genai
 transformers
 tqdm
 torch
+qdrant-client[fastembed]>=1.14.2
+fastembed
