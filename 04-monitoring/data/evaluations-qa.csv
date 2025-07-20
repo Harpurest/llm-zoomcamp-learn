@@ -1,0 +1,6 @@
+Relevance,Explanation
+RELEVANT,"The answer directly and clearly addresses the question by confirming the existence of an FAQ and providing specific details on its name, purpose, and direct links to access it. This makes it highly relevant and useful."
+RELEVANT,The generated answer directly addresses the question by providing the requested sign-up link.
+NON_RELEVANT,"The generated answer explicitly states that it does not have the information to answer the question, thus it provides no relevant content regarding how to structure questions and answers."
+RELEVANT,"The generated answer directly addresses the question by stating that the requested information is not available in the provided context. This is a relevant response as it accurately reflects the system's inability to answer based on its knowledge base, preventing hallucination and managing user expectations."
+RELEVANT,The generated answer is highly relevant because it directly addresses the user's question by stating that the requested information (GitHub repository for a sign-up link) is not present in the provided context. This is a precise and accurate response from a RAG system when the information is unavailable in its knowledge base.
